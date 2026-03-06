@@ -217,8 +217,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | `all` | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
 | [uqlm](https://github.com/cvs-health/uqlm) | `hallucination` | UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection. |
 | [llm-guard](https://github.com/protectai/llm-guard) | `all` | The Security Toolkit for LLM Interactions. |
-| [Agent OS](https://github.com/imran-siddique/agent-os) | `all` | A kernel architecture for governing AI agents. Intercepts actions mid-execution with deterministic policy enforcement, POSIX-inspired primitives, and framework integrations (LangChain, CrewAI, OpenAI). |
-| [AgentMesh](https://github.com/imran-siddique/agent-mesh) | `all` | Trust layer for multi-agent systems. Agent identity, trust scoring, delegation chains, and compliance automation (EU AI Act, SOC2, HIPAA, GDPR). |
+| [Agent OS](https://github.com/microsoft/agent-governance-toolkit) | `all` | A kernel architecture for governing AI agents. Intercepts actions mid-execution with deterministic policy enforcement, POSIX-inspired primitives, and framework integrations (LangChain, CrewAI, OpenAI). |
+| [AgentMesh](https://github.com/microsoft/agent-governance-toolkit) | `all` | Trust layer for multi-agent systems. Agent identity, trust scoring, delegation chains, and compliance automation (EU AI Act, SOC2, HIPAA, GDPR). |
 
 ### Closed Source
 
