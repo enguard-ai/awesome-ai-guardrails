@@ -217,6 +217,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | `all` | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
 | [uqlm](https://github.com/cvs-health/uqlm) | `hallucination` | UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection. |
 | [llm-guard](https://github.com/protectai/llm-guard) | `all` | The Security Toolkit for LLM Interactions. |
+| [asqav](https://github.com/jagmarques/asqav-sdk) | `all` | Open-source AI compliance scanner. Detects EU AI Act violations, prompt injection risks, and missing guardrails in AI agent code. Available as Python SDK, MCP server, and GitHub Action. |
 
 ### Closed Source
 
