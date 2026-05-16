@@ -35,6 +35,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name | Category | Description |
 |------|----------|-------------|
+| [APort](https://aport.io) | `security-and-privacy` | APort provides agent identity verification and policy enforcement for AI agents through SDKs and middleware. |
 | [Lakera](https://www.lakera.ai/lakera-guard) | `all` | Lakera is a company that provides a range of AI services. |
 | [Guardrails AI Pro](https://www.guardrailsai.com/pro) | `all` | Guardrails AI Pro is a commercial version of guardrails that provides additional features and support. |
 
