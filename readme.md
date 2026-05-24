@@ -12,6 +12,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name | Description |
 |------|-------------|
+| [APort Agent Guardrails](https://aport.io) | Pre-action authorization guardrails for AI agents and MCP/tool-use workflows. |
 | `security-and-privacy` | Security and privacy guardrails ensure content remains safe, ethical, and devoid of offensive material |
 | `response-and-relevance` | Ensures model responses are accurate, focused, and aligned with user intent |
 | `language-quality` | Ensures high standards of readability, coherence, and clarity |
