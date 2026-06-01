@@ -213,6 +213,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name | Category | Description |
 |------|----------|-------------|
+| [ActPlane](https://github.com/eunomia-bpf/ActPlane) | `security-and-privacy` | OS-level agent harness that compiles a policy DSL to an eBPF engine for labeled information-flow control at the syscall boundary, with corrective feedback. |
 | [guardrails](https://github.com/guardrails-ai/guardrails) | `all` | Adding guardrails to large language models. |
 | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | `all` | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
 | [uqlm](https://github.com/cvs-health/uqlm) | `hallucination` | UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection. |
