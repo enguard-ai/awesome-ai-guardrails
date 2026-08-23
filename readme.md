@@ -219,6 +219,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [uqlm](https://github.com/cvs-health/uqlm) | `hallucination` | UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection. |
 | [llm-guard](https://github.com/protectai/llm-guard) | `all` | The Security Toolkit for LLM Interactions. |
 | [any-guardrail](https://github.com/mozilla-ai/any-guardrail)|`all`|A single interface to use different guardrail models. Switch between different guardrail providers, without changing your code. |
+| [piighost](https://github.com/Athroniaeth/piighost) | `security-and-privacy` | Anonymizes PII before it reaches the LLM by replacing values with placeholders and restoring them in the reply, so the provider only sees placeholders. Works as LangChain, Pydantic AI or LlamaIndex integrations, or an OpenAI-compatible proxy. |
 
 
 
