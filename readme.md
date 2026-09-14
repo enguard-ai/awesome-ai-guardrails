@@ -218,9 +218,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | `all` | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
 | [uqlm](https://github.com/cvs-health/uqlm) | `hallucination` | UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection. |
 | [llm-guard](https://github.com/protectai/llm-guard) | `all` | The Security Toolkit for LLM Interactions. |
-| [any-guardrail](https://github.com/mozilla-ai/any-guardrail)|`all`|A single interface to use different guardrail models. Switch between different guardrail providers, without changing your code. |
-
-
+| [any-guardrail](https://github.com/mozilla-ai/any-guardrail) | `all` | A single interface to use different guardrail models. Switch between different guardrail providers, without changing your code. |
 
 ### Closed Source
 
@@ -228,6 +226,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 |------|----------|-------------|
 | [Lakera](https://www.lakera.ai/lakera-guard) | `all` | Lakera is a company that provides a range of AI services. |
 | [Guardrails AI Pro](https://www.guardrailsai.com/pro) | `all` | Guardrails AI Pro is a commercial version of guardrails that provides additional features and support. |
+| [Speakeasy](https://www.speakeasy.com/product/ai-control-plane) | `security-and-privacy` | Enterprise AI control plane that enforces policy and governs access across agents, MCP servers, and Skills, with auditability for agent actions. |
 | [Zenable](https://zenable.io/) | `logic-validation, security-and-privacy` | AI guardrails that learn your team's standards and ensure coding agents follow them. Catches bugs and security issues (SQL injection, hardcoded secrets) in AI-generated code in real-time via MCP integration with 50+ IDEs. |
 
 ## Datasets
