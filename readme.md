@@ -217,6 +217,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [guardrails](https://github.com/guardrails-ai/guardrails) | `all` | Adding guardrails to large language models. |
 | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | `all` | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
 | [uqlm](https://github.com/cvs-health/uqlm) | `hallucination` | UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection. |
+| [hermeneutic](https://github.com/hermes-labs-ai/hermeneutic) | `response-and-relevance, language-quality` | A zero-dependency Python pre-flight gate that mines prior user corrections and checks draft responses for recurring drift and overclaiming. |
 | [llm-guard](https://github.com/protectai/llm-guard) | `all` | The Security Toolkit for LLM Interactions. |
 | [any-guardrail](https://github.com/mozilla-ai/any-guardrail)|`all`|A single interface to use different guardrail models. Switch between different guardrail providers, without changing your code. |
 
