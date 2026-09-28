@@ -219,6 +219,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [uqlm](https://github.com/cvs-health/uqlm) | `hallucination` | UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection. |
 | [llm-guard](https://github.com/protectai/llm-guard) | `all` | The Security Toolkit for LLM Interactions. |
 | [any-guardrail](https://github.com/mozilla-ai/any-guardrail)|`all`|A single interface to use different guardrail models. Switch between different guardrail providers, without changing your code. |
+| [SUNGLASSES](https://github.com/sunglasses-dev/sunglasses) | `security-and-privacy` | MIT licensed input firewall for AI agents that runs locally. Scans text, files, PDFs, images and QR codes for prompt injection, credential leaks and data exfiltration. Ships as a CLI, a Python API, an MCP server and a Claude Code hook. |
 
 
 
