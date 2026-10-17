@@ -239,6 +239,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [prithivMLmods/OpenDeepfake-Preview](https://huggingface.co/datasets/prithivMLmods/OpenDeepfake-Preview) | `deepfake-detection` | OpenDeepfake-Preview is a dataset of 20K deepfake images. |
 | [eliasalbouzidi/NSFW-Safe-Dataset](https://huggingface.co/datasets/eliasalbouzidi/NSFW-Safe-Dataset?not-for-all-audiences=true) | `nsfw` | NSFW-Safe-Dataset is a dataset for NSFW content detection. |
 | [lmsys/toxic-chat](https://huggingface.co/datasets/lmsys/toxic-chat) | `toxic-chat` | Toxic-Chat is a dataset for toxic chat detection. |
+| [raxITLabs/decision-models-as-guardrails](https://huggingface.co/datasets/raxITLabs/decision-models-as-guardrails) | `all` | Decision Models as Guardrails is a benchmark dataset of 9,975 labelled guardrail checks (content, prompt attacks, denied topics, profanity, PII and grounding) used to compare 18 decision models with Amazon Bedrock Guardrails. |
 
 ## Papers
 
