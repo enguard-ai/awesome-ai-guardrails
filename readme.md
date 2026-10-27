@@ -55,12 +55,14 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [ibm-granite/granite-guardian-hap-125m](https://huggingface.co/ibm-granite/granite-guardian-hap-125m) | `0.125B` | `text-classification` |
 | [protectai/deberta-v3-small-prompt-injection-v2](https://huggingface.co/protectai/deberta-v3-small-prompt-injection-v2) | `0.142B` | `text-classification` |
 | [protectai/deberta-v3-base-prompt-injection-v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) | `0.182B` | `text-classification` |
+| [amyrmahdy/decima-guard](https://huggingface.co/amyrmahdy/decima-guard) | `0.321B` | `text-classification` |
 | [TostAI/nsfw-text-detection-large](https://huggingface.co/TostAI/nsfw-text-detection-large) | `0.355B` | `text-classification` |
 | [MoritzLaurer/ModernBERT-large-zeroshot-v2.0](https://huggingface.co/MoritzLaurer/ModernBERT-large-zeroshot-v2.0) | `0.4B` | `text-classification` |
 | [madhurjindal/Jailbreak-Detector-2-XL](https://huggingface.co/madhurjindal/Jailbreak-Detector-2-XL) | `0.5B` | `text-classification` |
 | [google/shieldgemma-2b](https://huggingface.co/google/shieldgemma-2b) | `2B` | `text-classification` |
 | [meta-llama/Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | `1B` | `text-to-text-generation` |
 | [ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpii](https://huggingface.co/ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpii) | `0.15B` | `token-classification` |
+| [amyrmahdy/decima-pii](https://huggingface.co/amyrmahdy/decima-pii) | `0.14B` | `token-classification` |
 </details>
 
 
@@ -172,6 +174,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [ibm-granite/granite-guardian-hap-125m](https://huggingface.co/ibm-granite/granite-guardian-hap-125m) | `0.125B` | `security-and-privacy` | `toxicity, hallucination` |
 | [protectai/deberta-v3-small-prompt-injection-v2](https://huggingface.co/protectai/deberta-v3-small-prompt-injection-v2) | `0.142B` | `security-and-privacy` | `prompt-injection` |
 | [protectai/deberta-v3-base-prompt-injection-v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) | `0.182B` | `security-and-privacy` | `prompt-injection` |
+| [amyrmahdy/decima-guard](https://huggingface.co/amyrmahdy/decima-guard) | `0.321B` | `security-and-privacy` | `prompt-injection, offensive-language` |
 | [TostAI/nsfw-text-detection-large](https://huggingface.co/TostAI/nsfw-text-detection-large) | `0.355B` | `security-and-privacy` | `inappropriate-content` |
 | [MoritzLaurer/ModernBERT-large-zeroshot-v2.0](https://huggingface.co/MoritzLaurer/ModernBERT-large-zeroshot-v2.0) | `0.4B` | `security-and-privacy` | `inappropriate-content, offensive-language, prompt-injection, sensitive-content` |
 | [madhurjindal/Jailbreak-Detector-2-XL](https://huggingface.co/madhurjindal/Jailbreak-Detector-2-XL) | `0.5B` | `security-and-privacy` | `jailbreaks` |
@@ -183,6 +186,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [osmosis-ai/Osmosis-Structure-0.6B](https://huggingface.co/osmosis-ai/Osmosis-Structure-0.6B) | `0.6B` | `content-validation, security-and-privacy` | `pii, competitor-blocking` |
 | [gliner-community/gliner_small-v2.5](https://huggingface.co/gliner-community/gliner_small-v2.5) | `0.7B` | `content-validation, security-and-privacy` | `pii, competitor-blocking` |
 | [ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpii](https://huggingface.co/ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpii) | `0.15B` | `security-and-privacy` | `pii` |
+| [amyrmahdy/decima-pii](https://huggingface.co/amyrmahdy/decima-pii) | `0.14B` | `security-and-privacy` | `pii` |
 
 ### Text-To-Text-Generation Models
 | Name | Size | Category | Sub Category |

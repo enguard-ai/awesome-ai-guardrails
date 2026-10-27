@@ -334,6 +334,24 @@
       "url": "https://huggingface.co/ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpii"
     },
     {
+      "name": "amyrmahdy/decima-pii",
+      "size": "0.14B",
+      "task": "token-classification",
+      "category": ["security-and-privacy"],
+      "sub_category": ["pii"],
+      "description": "amyrmahdy/decima-pii is a 0.14B parameter model that can detect PII in Arabic, Persian, Urdu, Turkish and English text, on CPU or in the browser.",
+      "url": "https://huggingface.co/amyrmahdy/decima-pii"
+    },
+    {
+      "name": "amyrmahdy/decima-guard",
+      "size": "0.321B",
+      "task": "text-classification",
+      "category": ["security-and-privacy"],
+      "sub_category": ["prompt-injection", "offensive-language"],
+      "description": "amyrmahdy/decima-guard is a 0.321B parameter model that can detect direct and indirect prompt injections, jailbreaks and harmful or toxic text, including Arabic and Persian, on CPU.",
+      "url": "https://huggingface.co/amyrmahdy/decima-guard"
+    },
+    {
       "name": "gliner-community/gliner_small-v2.5",
       "size": "0.7B",
       "task": "token-classification",
