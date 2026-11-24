@@ -229,6 +229,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | [Lakera](https://www.lakera.ai/lakera-guard) | `all` | Lakera is a company that provides a range of AI services. |
 | [Guardrails AI Pro](https://www.guardrailsai.com/pro) | `all` | Guardrails AI Pro is a commercial version of guardrails that provides additional features and support. |
 | [Zenable](https://zenable.io/) | `logic-validation, security-and-privacy` | AI guardrails that learn your team's standards and ensure coding agents follow them. Catches bugs and security issues (SQL injection, hardcoded secrets) in AI-generated code in real-time via MCP integration with 50+ IDEs. |
+| [Excellent for Mac](https://www.excellent.so/) | `security-and-privacy` | macOS app for reviewing local coding-agent activity and applying optional protections to selected actions in supported agents. |
 
 ## Datasets
 
